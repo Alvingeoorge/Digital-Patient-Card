@@ -6,8 +6,8 @@ A **Java-based mini project** that allows patients to manage their health profil
 ## 👥 Team Members
 
 - Aebel Antosh  
-- Alvin George  
 - Ewan John Dennis  
+- Alvin George  
 - G S Balamurali  
 - Johan Abraham  
 - Rohan K Joseph  
